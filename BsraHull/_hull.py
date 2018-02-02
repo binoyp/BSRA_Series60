@@ -11,6 +11,7 @@ _PATHDICT = {
         0.6: Path(os.path.dirname(__file__), 'data', 'cb0p6.bin'),
         0.65: Path(os.path.dirname(__file__), 'data', 'cb0p65.bin'),
         0.7: Path(os.path.dirname(__file__), 'data', 'cb0p7.bin'),
+        0.75: Path(os.path.dirname(__file__), 'data', 'cb0p75.bin'),
         0.8: Path(os.path.dirname(__file__), 'data', 'cb0p8.bin')
     }
     
